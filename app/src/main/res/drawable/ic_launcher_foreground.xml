@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Holy Book / Journal cover -->
+    <path
+        android:fillColor="#E0B86C"
+        android:pathData="M32,26 C30,26 28,28 28,30 L28,78 C28,81 30,83 33,83 L75,83 C77,83 79,81 79,79 L79,76 L34,76 C32.5,76 31.5,75 31.5,74 C31.5,73 32.5,72 34,72 L79,72 L79,30 C79,28 77,26 75,26 Z" />
+    <!-- Inner Book page highlight -->
+    <path
+        android:fillColor="#FFF4D4"
+        android:pathData="M35,30 L75,30 C76,30 76.5,30.5 76.5,31.5 L76.5,69 L35,69 C33.5,69 32.5,69.5 32,70.5 L32,32 C32.5,31 33.5,30 35,30 Z" />
+    <!-- Sacred Cross on the page -->
+    <path
+        android:fillColor="#C89738"
+        android:pathData="M52,36 L56,36 L56,43 L63,43 L63,47 L56,47 L56,62 L52,62 L52,47 L45,47 L45,43 L52,43 Z" />
+    <!-- Bookmark ribbon -->
+    <path
+        android:fillColor="#9C3420"
+        android:pathData="M66,26 L71,26 L71,44 L68.5,41.5 L66,44 Z" />
+</vector>

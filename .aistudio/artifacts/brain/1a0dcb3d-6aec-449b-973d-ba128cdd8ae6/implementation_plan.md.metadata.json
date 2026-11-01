@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for 'يوميتي' (Yawmiyati) native Android application using Kotlin, Jetpack Compose, Material 3, and Room database. Features include daily journal rhythm, long-term library, promises history, weekly/monthly review, Van Dyck Arabic Bible offline asset, local PIN and biometric security, AES-GCM encrypted backup, and gentle reminders.",
+  "updatedAt":  "2026-10-30T19:10:47.989698734Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

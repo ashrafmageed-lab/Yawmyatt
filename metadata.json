@@ -1,0 +1,6 @@
+{
+  "name": "يوميتي",
+  "description": "تطبيق اليوميات الروحية الخاصة — تسجيل يومي هادئ، وعود وصلوات، مكتبة ومراجعة دورية، والكتاب المقدس أوفلاين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
